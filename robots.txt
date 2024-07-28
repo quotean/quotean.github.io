@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://quotean.github.io/sitemap.html.gz
+Sitemap: https://quotean.github.io/app/sitemap.html.gz
+Sitemap: https://quotean.github.io/assets/sitemap.html.gz
+Sitemap: https://quotean.github.io/css/sitemap.html.gz
+Sitemap: https://quotean.github.io/includes/sitemap.html.gz
+Sitemap: https://quotean.github.io/item/sitemap.html.gz
+Sitemap: https://quotean.github.io/src/sitemap.html.gz
